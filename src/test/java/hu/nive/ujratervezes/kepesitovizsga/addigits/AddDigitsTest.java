@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AddDigitsTest {
-/*
+
     private AddDigits digitAdder;
 
     @BeforeEach
@@ -63,5 +63,5 @@ class AddDigitsTest {
     void test_addDigits_15_5minus55() {
         assertEquals(15, digitAdder.addDigits("5-55"));
     }
-*/
+
 }
